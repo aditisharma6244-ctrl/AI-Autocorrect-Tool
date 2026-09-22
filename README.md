@@ -59,3 +59,11 @@ expected correction and calculates exact-match accuracy.
 
 ```text
 I am lerning machne lerning.
+### Output
+
+```text
+I am learning machine learning.
+### Corrections Detected
+lerning → learning
+machne → machine
+
